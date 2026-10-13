@@ -1,4 +1,4 @@
 # ZAINA-DEMO
 This is my first github repository.
 <br>
-Author-zAINA MUBEEN
+Author-ZAINA MUBEEN
